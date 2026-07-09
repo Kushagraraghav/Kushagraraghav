@@ -171,3 +171,9 @@ An intelligent resume screening platform using Artificial Intelligence.
 ⭐ If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Kushagraraghav/Kushagraraghav/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
