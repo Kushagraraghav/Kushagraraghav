@@ -1,63 +1,76 @@
 <h1 align="center">Hi 👋, I'm Kushagra Raghav</h1>
 
 <h3 align="center">
-Software Developer • Cyber Security Enthusiast • AI Explorer
+Software Developer • Full Stack Developer • Cyber Security Enthusiast
 </h3>
 
 <p align="center">
-Passionate about building secure, scalable, and AI-powered applications that solve real-world problems.
+Building secure web applications, AI-powered solutions, and real-world software.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Cyber+Security+Enthusiast;AI+Explorer;Always+Learning+Something+New" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Software+Developer;Full+Stack+Developer;Cyber+Security+Enthusiast;AI+Explorer;Always+Building+Something+New"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Kushagraraghav&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://komarev.com/ghpvc/?username=Kushagraraghav&style=for-the-badge&color=blue"/>
+
+<a href="https://github.com/Kushagraraghav?tab=followers">
+<img src="https://img.shields.io/github/followers/Kushagraraghav?style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Kushagraraghav">
+<img src="https://img.shields.io/github/stars/Kushagraraghav?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
 </p>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Student
-- 💻 Passionate about Full Stack Development
-- 🔐 Cyber Security Enthusiast
-- 🤖 Interested in Artificial Intelligence & Automation
-- 🌱 Always building practical projects and exploring modern technologies
-- 🎯 Goal: Build secure, scalable, and impactful software solutions
+🎓 Final Year B.Tech Student
+
+💻 Full Stack Developer passionate about building scalable applications
+
+🔐 Cyber Security Enthusiast
+
+🤖 Interested in AI, Automation & Secure Software
+
+🚀 Love solving real-world problems through technology
 
 ---
 
-# 💼 Featured Projects
+# 🚀 Featured Projects
 
 ## 🛡️ CTF & Anti-Cheat Platform
 
-Developed a Capture The Flag platform with anti-cheat mechanisms, secure challenge hosting, and an interactive dashboard.
+A secure Capture The Flag platform with anti-cheat mechanisms, challenge management and interactive dashboard.
 
 **Tech Stack**
 
-`Python` • `Flask` • `SQLite` • `HTML` • `CSS` • `JavaScript`
+`Python` `Flask` `SQLite` `HTML` `CSS` `JavaScript`
 
 ---
 
 ## 🤖 AI Pitch Analyzer
 
-An AI-powered application that analyzes startup pitches and provides intelligent feedback and scoring.
+AI-powered application that evaluates startup pitches and provides intelligent feedback.
 
 **Tech Stack**
 
-`JavaScript` • `Node.js` • `AI APIs`
+`Node.js` `JavaScript` `AI APIs`
 
 ---
 
 ## 📄 AI Resume Screening
 
-A smart resume screening platform that evaluates resumes against job descriptions using Artificial Intelligence.
+An intelligent resume screening platform using Artificial Intelligence.
 
 **Tech Stack**
 
-`JavaScript` • `Node.js` • `AI`
+`Node.js` `JavaScript` `AI`
 
 ---
 
@@ -95,64 +108,39 @@ A smart resume screening platform that evaluates resumes against job description
 
 ---
 
-# 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kushagraraghav&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kushagraraghav&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Kushagrarav&theme=github-dark&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Kushagraraghav&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🌱 Currently Exploring
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Kushagraraghav&theme=algolia&row=1&column=7&no-frame=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagraraghav&theme=github-dark&hide_border=true"/>
-
-</p>
+- 🔹 Advanced Backend Development
+- 🔹 Secure Software Engineering
+- 🔹 Artificial Intelligence
+- 🔹 Cloud Computing
+- 🔹 System Design
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Highlights
 
-- Advanced Backend Development
-- Secure Software Development
-- Artificial Intelligence
-- Cloud Computing
-- System Design
+✔ Built AI-powered applications
 
----
+✔ Developed a secure CTF Platform
 
-# 🏅 Achievements
+✔ Passionate about Open Source
 
-- 🚀 Built multiple AI-powered applications
-- 🛡️ Developed a secure CTF Platform
-- 💻 Passionate about Open Source & Continuous Learning
-- 🌟 Building practical software with modern technologies
+✔ Love learning new technologies
 
 ---
 
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 
@@ -161,27 +149,25 @@ A smart resume screening platform that evaluates resumes against job description
 </a>
 
 <a href="mailto:raghavkushagra2@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# ⚡ Fun Fact
+# 💡 Quote
 
-> 💡 *"Code. Learn. Build. Repeat."*
+<p align="center">
+
+<i>"The best way to predict the future is to build it."</i>
+
+</p>
 
 ---
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagraraghav&theme=github_dark"/>
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+⭐ If you like my work, consider giving a ⭐ to my repositories.
 
 </p>
