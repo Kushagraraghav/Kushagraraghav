@@ -172,6 +172,10 @@ An intelligent resume screening platform using Artificial Intelligence.
 
 </p>
 
+<a href="https://leetcode.com/u/Kushagra_raghav/">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode" />
+</a>
+
 ## 🐍 Contribution Snake
 
 <p align="center">
