@@ -144,7 +144,11 @@ An intelligent resume screening platform using Artificial Intelligence.
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/kushagra-raghav-167b94267">
+<a href="https://kushagraraghav.github.io/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-24292F?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/kushagra-raghav-167b94267" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
