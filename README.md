@@ -32,7 +32,7 @@ Building secure web applications, AI-powered solutions, and real-world software.
 
 🎓 Final Year B.Tech Student
 
-💻 Full Stack Developer passionate about building scalable applications
+💻 Full Stack Developer passionates about building scalable applications
 
 🔐 Cyber Security Enthusiast
 
