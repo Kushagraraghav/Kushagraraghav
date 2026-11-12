@@ -54,7 +54,7 @@ A secure Capture The Flag platform with anti-cheat mechanisms, challenge managem
 
 ---
 
-## 🤖 AI Pitchs Analyzer
+## 🤖 AI Pitch Analyzer
 
 AI-powered application that evaluates startup pitches and provides intelligent feedback.
 
