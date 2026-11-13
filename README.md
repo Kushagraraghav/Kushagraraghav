@@ -5,7 +5,7 @@ Software Developer • Full Stack Developer • Cyber Security Enthusiast
 </h3>
 
 <p align="center">
-Building secure web applications,
+Building secure web applications, AI-powered solutions, and real-world software.
 </p>
 
 <p align="center">
